@@ -1,0 +1,17 @@
+# --------------------------------------
+# Ibotta Repository Team Metadata File
+# Guide: https://catalog.ibops.net/repo/tech-knowledge/doc/user-guides/team-yml?branch=main
+# --------------------------------------
+name: release-tools
+group: platform
+subgroup: enablement
+
+slack:
+  "enablement_subgroup":
+    url: "https://ibotta.slack.com/channels/enablement_subgroup"
+    desc: "release-tools team slack channel"
+
+email:
+  "release-tools@ibotta.com":
+    desc: "release-tools team e-mail"
+
