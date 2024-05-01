@@ -1,15 +1,5 @@
-# cookiecutter-mersman
-Maintained by release-tools
+# Welcome
 
-1. [Overview](#overview)
-1. [Deployment](#deployment)
-1. [Contributing](#contributing)
+This project is named hooks.
 
-## Overview
-cookiecutter-mersman Details
-
-## Deployment 
-Deployment Details
-
-## Contributing
-Contributing Details
+See ya. :wave:
